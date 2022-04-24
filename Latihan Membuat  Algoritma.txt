@@ -1,0 +1,91 @@
+Nama Mahasiswa ke-1 = Doni Wahyu Saputa
+Nilai Mahasiswa ke-1 =85
+
+Nama Mahasiswa ke-2 = Abdul
+Nilai Mahasis ke ke-2 = 78
+
+Nama Mahasiswa ke-3 = Rahamat
+Nilai Mahasiswa ke-3 = 86
+
+Nama Siswa ke-4 = Ahmad
+Nilai Mahasiswa ke-4 = 90
+
+Nama Mahasiswa ke-5 = Somat
+Nilai Mahasiswa ke-5 = 75
+
+Nama Mahasiswa ke-6 = Rizky
+Nilai Mahasiswa ke-6 = 78 
+
+Nama Mahasiswa ke-7 = Niken Kuinsa Arlianti
+Nilai Mahasiswa ke-7 = 84
+
+Nama Mahasiswa ke-8 = Ryan
+Nilai Mahasiswa ke-8 = 77
+
+Nama Mahasiswa ke-9 = Fajar 
+Nilai Mahasiswa ke-9 = 73
+
+Nma Mahasiswa ke-10 = Sofyan
+Nilai Mahasiswa ke-10 = 69
+
+
+
+
+
+Resep Membuat Teh Susu 
+Bahan:
+1 Teh Celup
+200 Gram Gula Pasir 
+1/2 Gelas Susu 
+1 Gelas Biasa
+2 Coklatos batang 
+1 Sendok Teh
+1 Gelas Air Panas
+
+
+Cara Membuat:
+1)Masukan Teh Celup Ke Gelas Yang Berisi Air Panas
+2)Aduk Teh Celup dengan sendok teh Sampai Berubah Warna Menjadi Kuning Gelap Pekat
+3)Masukan 200 Gram Gula Pasir Ke Gelas Yang Sudah Diberi Teh Celup
+4)Masukan Susu 1/2 Gelas Susu Ke Gelas Yang Sudah Berisi Gula dan Teh Celup
+5)Hiasi Deangan Coklatos Batang
+6)Teh Susu siap di nikmati
+
+
+
+Puseducode
+1.Start 
+2.Read L:5cm T:7cm Lb:9
+3.L:5cm T:7cm Lb:9cm
+4.Print L,T,Lb
+5.Stop
+
+Natural
+1.Mulai
+2.Masukan Luas : 50 ,Tinggi : 76 ,Lebar : 87
+3.jumlah Kan semua
+4.Dapat Jawabanya
+5.Berhenti
+
+Algoritma
+Cara mengguanakan router wifi menggunakan sambungan ethernet
+1.Colokan router ke stop kontak
+2.Lihat Lampu Yang ada di atas router apakah sudah nyala jika tidak nyala coba cek dengan menghubungkan wifi ke router
+  jika tersambung kemungkinan lampunya rusak, jika tidak terhubung routernya kemungkinan rusak
+3.Cara menyambungkan dengan ethernet dengan menggukan kabel lan ada berbagai jenis dijual terpisah seperti cat 5,cat 6
+ cat 7 dan seterusnya
+4.sambungankan kabel lan ke komputer dan juga sambungan ke router
+5.Cek di komputer apakah kabel lan berhasil tersambung jika iya maka penyambungan kabel lan ke komputer ke router sudah
+berhasil,jika tidak maka periksa kabel lan maka putus ganti kabel lan
+6.Jika iya komputer sudah terhubung ke router
+7.selesai
+
+
+
+
+
+
+
+
+
+
